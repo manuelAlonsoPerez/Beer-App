@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_747811_beer_app.beer brewer" name="x_747811_beer_app.beer brewer">e6b0d78f4756111048291bd8c26d43ad</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-07 11:09:12</sys_created_on>
+        <sys_id>eab0d78f4756111048291bd8c26d43af</sys_id>
+        <sys_name>e6b0d78f4756111048291bd8c26d43ad</sys_name>
+        <sys_package display_value="Beer App" source="x_747811_beer_app">f3801b074756111048291bd8c26d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Beer App">f3801b074756111048291bd8c26d43c1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_eab0d78f4756111048291bd8c26d43af</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

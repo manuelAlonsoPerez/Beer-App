@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">1a7056e4f90211108c8bd16244dfe705</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-07 11:16:16</sys_created_on>
+        <sys_id>79521f434796111048291bd8c26d43d4</sys_id>
+        <sys_package display_value="Beer App" source="x_747811_beer_app">f3801b074756111048291bd8c26d43c1</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

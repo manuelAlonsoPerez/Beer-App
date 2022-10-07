@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b9521f434796111048291bd8c26d4348" extends="task" label="Recipes" max_length="40" name="x_747811_beer_app_recipes" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Link" max_length="1024" name="link" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Recipe Ingredients" max_length="1000" name="recipe_ingredients" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Recipe name" max_length="255" name="recipe_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Recipe Steps" max_length="1000" name="recipe_steps" type="string"/>
+    </element>
+</database>
