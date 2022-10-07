@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order>1</order>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-07 11:53:19</sys_created_on>
+        <sys_id>e6aadb4b4796111048291bd8c26d4322</sys_id>
+        <sys_name>68ba1f4b4796111048291bd8c26d4336</sys_name>
+        <sys_package display_value="Beer App" source="x_747811_beer_app">f3801b074756111048291bd8c26d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Beer App">f3801b074756111048291bd8c26d43c1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_e6aadb4b4796111048291bd8c26d4322</sys_update_name>
+        <test display_value="Creat Beer Recipe">68ba1f4b4796111048291bd8c26d4336</test>
+        <test_suite display_value="Beer Brewer Tests">738a5b4b4796111048291bd8c26d4345</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
