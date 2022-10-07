@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Beer App">6d7297034796111048291bd8c26d43ce</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open - Unassigned</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_747811_beer_app_recipes</name>
+        <order>4</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=true^assigned_toISEMPTY^EQ</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-07 11:16:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a9729f434796111048291bd8c26d43d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open - Unassigned</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Beer App" source="x_747811_beer_app">f3801b074756111048291bd8c26d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Beer App">f3801b074756111048291bd8c26d43c1</sys_scope>
+        <sys_update_name>sys_app_module_a9729f434796111048291bd8c26d43d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-07 11:16:47</sys_updated_on>
+        <timeline_page/>
+        <title>Open - Unassigned</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Beer App">f3801b074756111048291bd8c26d43c1</application>
+        <file_path/>
+        <instance_id>62196dc7db1ed51407072f17d4961922</instance_id>
+        <instance_name>dev139777</instance_name>
+        <name>sys_app_module_a9729f434796111048291bd8c26d43d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Beer App">6d7297034796111048291bd8c26d43ce</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open - Unassigned</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_747811_beer_app_recipes</name><order>4</order><override_menu_roles>false</override_menu_roles><query>active=true^assigned_toISEMPTY^EQ</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-07 11:16:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a9729f434796111048291bd8c26d43d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open - Unassigned</sys_name><sys_overrides/><sys_package display_value="Beer App" source="x_747811_beer_app">f3801b074756111048291bd8c26d43c1</sys_package><sys_policy/><sys_scope display_value="Beer App">f3801b074756111048291bd8c26d43c1</sys_scope><sys_update_name>sys_app_module_a9729f434796111048291bd8c26d43d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-07 11:16:47</sys_updated_on><timeline_page/><title>Open - Unassigned</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>868915724</payload_hash>
+        <record_name>Open - Unassigned</record_name>
+        <reverted_from/>
+        <source>37801b074756111048291bd8c26d43c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-07 11:16:47</sys_created_on>
+        <sys_id>61729f434796111048291bd8c26d43db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183b2297f660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-07 11:16:47</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a9729f43e69611102d082dcffd1d67da</update_guid>
+        <update_guid_history>a9729f43e69611102d082dcffd1d67da:868915724</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Open - Unassigned">8e3ad34b4796111048291bd8c26d4316</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-07 11:50:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>c63fcb8d3489495ca449490a5690b839</sys_id>
+        <sys_metadata>a9729f434796111048291bd8c26d43d9</sys_metadata>
+        <sys_name>Open - Unassigned</sys_name>
+        <sys_package display_value="Beer App" source="x_747811_beer_app">f3801b074756111048291bd8c26d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Beer App">f3801b074756111048291bd8c26d43c1</sys_scope>
+        <sys_scope_delete display_value="">38f4b44e3e044d6695d3bea77ad607a4</sys_scope_delete>
+        <sys_update_name>sys_app_module_a9729f434796111048291bd8c26d43d9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a9729f434796111048291bd8c26d43d9">61729f434796111048291bd8c26d43db</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
